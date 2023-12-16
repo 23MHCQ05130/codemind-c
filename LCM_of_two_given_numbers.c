@@ -7,7 +7,7 @@ int main()
     {
         if((a*i)%b==0)
         {
-            printf("%d",a*i);
+            printf("%d",(a*i));
             break;
         }
     }
